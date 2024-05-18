@@ -1,1 +1,2 @@
 1. Completar todas las actividades y todos los tests.
+2. Hacer un buen proyecto final de master.
